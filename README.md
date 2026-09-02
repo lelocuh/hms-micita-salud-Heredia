@@ -10,10 +10,9 @@ El repositorio incluye:
   actores primarios y secundarios, relaciones de asociación, generalización,
   `include` y `extend`).
 - El archivo fuente editable en draw.io (`.drawio`).
-- La versión en PlantUML (`.puml`) como respaldo textual del modelo.
 - El documento con las tablas de actores, casos de uso, especificación
   textual y el análisis final de la actividad evaluativa.
 
-**Herramienta utilizada:** draw.io (diagrams.net), con PlantUML como respaldo.
+**Herramienta utilizada:** draw.io (diagrams.net).
 
 **Autor:** [Samuel Ivan Heredia Moya] – Ingeniería de Software, V semestre.
